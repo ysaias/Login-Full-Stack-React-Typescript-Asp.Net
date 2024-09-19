@@ -1,0 +1,31 @@
+.option-container{
+    display: flex;
+    align-items: center;
+    height: 30px;
+}
+
+.separator{
+    margin-left: auto;
+}
+
+.option{
+    display: flex;
+    width: 150px;
+    color: white;
+    height: 30px;
+    align-items: center;
+    justify-content: center;
+}
+
+.option:hover{
+    color: rgb(191, 10, 46);
+    cursor: pointer;
+    font-weight: bold;
+    background-color: rgb(203, 169, 169);
+    border-radius: 1rem;
+}
+
+.option>a{
+    text-decoration: none;
+    color: white;
+}

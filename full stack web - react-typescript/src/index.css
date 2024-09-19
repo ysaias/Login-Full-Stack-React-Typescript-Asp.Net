@@ -1,0 +1,85 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  font-family: 'Roboto';
+  background-color: white;
+  min-width: 100vh;
+  min-height: 100vh;
+  color: cyan;
+  display: grid;
+  gap: 5px;
+  grid-template:
+  "header" 100px
+  "navbar" 30px
+  "main" auto
+  "footer" 30px
+  
+}
+
+.header{
+  grid-area: header;
+  display:  flex;
+  justify-content: space-between;
+}
+
+.header .logo{
+  width: 100px;
+  height: 100px;
+}
+
+.header .titulo{
+ font-family: fantasy;
+ font-size: 5rem;
+ color: rgb(46, 81, 175);
+ text-shadow: 0px 3px 0px #1587af,
+ 5px 5px 10px rgba(207, 8, 8, 0.323), 
+ 5px 15px 20px rgba(207, 8, 8, 0.323) 
+ ;
+}
+
+
+
+.header .usuario>img{
+  border: 3px solid rgb(46, 81, 175);
+  border-radius: 3rem;
+}
+
+
+.header .usuario>div{
+  color: rgb(46, 81, 175);
+  font-size: medium;
+  font-weight: bold;
+}
+
+.header .usuario>div:hover{
+  color: #1507af;
+  cursor: pointer;
+
+}
+
+.navbar{
+  grid-area: navbar;
+  background-color: rgb(46, 81, 175);
+  border-radius: 1rem;
+}
+
+.main {
+  grid-area: main;
+ 
+}
+
+
+.footer{
+  grid-area: footer;
+  display: flex;
+  background-color: rgb(46, 81, 175);
+  color: white;
+  font-size: small;
+  align-items: center;
+  justify-content: center;
+}
+

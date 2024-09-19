@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BkAY4LN0liuwyx2FftvnI/tQ8HK/7zVqjPLh4+JLINw=",
+  "Source": "fsw.webapi",
+  "BasePath": "_content/fsw.webapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

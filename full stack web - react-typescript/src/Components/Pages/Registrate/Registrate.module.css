@@ -1,0 +1,87 @@
+.Contenido{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.Contenido>h3{
+    margin: auto;
+    color: black;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.Contenedorformulario{
+    display: flex;
+    width: 100%;
+    height: auto;
+    justify-content: center;
+}
+
+.Formulario{
+    background-color: rgb(46, 81, 175);
+    border: 1px solid blue;
+    border-radius: 10px;
+    box-shadow: 5px 5px 0px darkblue;
+    padding: 5px;
+    width: 300px;
+    height: auto;
+    display: grid;
+    grid-template: 
+    "LblUsuario TxtUsuario" 30px
+    "LblPassword1 TxtPassword1" 30px
+    "LblPassword2 TxtPassword2" 30px
+    "Botones Botones" 30px
+    ;
+}
+
+.Formulario>div>label{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: left;
+    vertical-align: middle;
+    padding-left: 5px;
+}
+
+.Formulario>div>button{
+    background-color: blue;
+    color: white;
+    border: 1px solid white;
+    border-radius: 15px;
+    font-weight: bold;
+    width: 100px;
+    cursor: pointer;
+    margin: 5px;
+    
+}
+
+.LblUsuario{
+    grid-area: LblUsuario;
+}
+
+.TxtUsuario{
+    grid-area: TxtUsuario;
+}
+
+.LblPassword1{
+    grid-area: LblPassword1;
+}
+
+.TxtPassword1{
+    grid-area: TxtPassword1;
+}
+
+.LblPassword2{
+    grid-area: LblPassword2;
+}
+
+.TxtPassword2{
+    grid-area: TxtPassword2;
+}
+
+.Botones{
+    grid-area: Botones;
+    margin: auto;
+}
+

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\fsw.webapi.props" />
+</Project>

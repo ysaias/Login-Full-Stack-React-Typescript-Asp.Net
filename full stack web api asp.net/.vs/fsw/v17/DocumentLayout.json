@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\fsw\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A22CDC8-CC8C-49EA-8C56-E49355BCC666}|fsw.webapi\\fsw.webapi.csproj|c:\\users\\lenovo\\source\\repos\\fsw\\fsw.webapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A22CDC8-CC8C-49EA-8C56-E49355BCC666}|fsw.webapi\\fsw.webapi.csproj|solutionrelative:fsw.webapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A22CDC8-CC8C-49EA-8C56-E49355BCC666}|fsw.webapi\\fsw.webapi.csproj|c:\\users\\lenovo\\source\\repos\\fsw\\fsw.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A22CDC8-CC8C-49EA-8C56-E49355BCC666}|fsw.webapi\\fsw.webapi.csproj|solutionrelative:fsw.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A22CDC8-CC8C-49EA-8C56-E49355BCC666}|fsw.webapi\\fsw.webapi.csproj|c:\\users\\lenovo\\source\\repos\\fsw\\fsw.webapi\\dtos\\request\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A22CDC8-CC8C-49EA-8C56-E49355BCC666}|fsw.webapi\\fsw.webapi.csproj|solutionrelative:fsw.webapi\\dtos\\request\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A22CDC8-CC8C-49EA-8C56-E49355BCC666}|fsw.webapi\\fsw.webapi.csproj|c:\\users\\lenovo\\source\\repos\\fsw\\fsw.webapi\\dtos\\response\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A22CDC8-CC8C-49EA-8C56-E49355BCC666}|fsw.webapi\\fsw.webapi.csproj|solutionrelative:fsw.webapi\\dtos\\response\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A22CDC8-CC8C-49EA-8C56-E49355BCC666}|fsw.webapi\\fsw.webapi.csproj|c:\\users\\lenovo\\source\\repos\\fsw\\fsw.webapi\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A22CDC8-CC8C-49EA-8C56-E49355BCC666}|fsw.webapi\\fsw.webapi.csproj|solutionrelative:fsw.webapi\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A22CDC8-CC8C-49EA-8C56-E49355BCC666}|fsw.webapi\\fsw.webapi.csproj|c:\\users\\lenovo\\source\\repos\\fsw\\fsw.webapi\\repositorios\\configuracion\\usuarioconfiguracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A22CDC8-CC8C-49EA-8C56-E49355BCC666}|fsw.webapi\\fsw.webapi.csproj|solutionrelative:fsw.webapi\\repositorios\\configuracion\\usuarioconfiguracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A22CDC8-CC8C-49EA-8C56-E49355BCC666}|fsw.webapi\\fsw.webapi.csproj|c:\\users\\lenovo\\source\\repos\\fsw\\fsw.webapi\\repositorios\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A22CDC8-CC8C-49EA-8C56-E49355BCC666}|fsw.webapi\\fsw.webapi.csproj|solutionrelative:fsw.webapi\\repositorios\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A22CDC8-CC8C-49EA-8C56-E49355BCC666}|fsw.webapi\\fsw.webapi.csproj|c:\\users\\lenovo\\source\\repos\\fsw\\fsw.webapi\\repositorios\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A22CDC8-CC8C-49EA-8C56-E49355BCC666}|fsw.webapi\\fsw.webapi.csproj|solutionrelative:fsw.webapi\\repositorios\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A22CDC8-CC8C-49EA-8C56-E49355BCC666}|fsw.webapi\\fsw.webapi.csproj|c:\\users\\lenovo\\source\\repos\\fsw\\fsw.webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A22CDC8-CC8C-49EA-8C56-E49355BCC666}|fsw.webapi\\fsw.webapi.csproj|solutionrelative:fsw.webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\fsw\\fsw.webapi\\Repositorios\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "fsw.webapi\\Repositorios\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\fsw\\fsw.webapi\\Repositorios\\AppDbContext.cs",
+              "RelativeToolTip": "fsw.webapi\\Repositorios\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T01:38:41.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\fsw\\fsw.webapi\\DTOs\\Request\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "fsw.webapi\\DTOs\\Request\\LoginRequestDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\fsw\\fsw.webapi\\DTOs\\Request\\LoginRequestDto.cs",
+              "RelativeToolTip": "fsw.webapi\\DTOs\\Request\\LoginRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T04:49:14.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\fsw\\fsw.webapi\\Repositorios\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "fsw.webapi\\Repositorios\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\fsw\\fsw.webapi\\Repositorios\\Entities\\Usuario.cs",
+              "RelativeToolTip": "fsw.webapi\\Repositorios\\Entities\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T05:01:07.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\fsw\\fsw.webapi\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "fsw.webapi\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\fsw\\fsw.webapi\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "fsw.webapi\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAA/wIMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T05:42:44.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\fsw\\fsw.webapi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "fsw.webapi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\fsw\\fsw.webapi\\appsettings.Development.json",
+              "RelativeToolTip": "fsw.webapi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-12T05:24:06.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioConfiguracion.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\fsw\\fsw.webapi\\Repositorios\\Configuracion\\UsuarioConfiguracion.cs",
+              "RelativeDocumentMoniker": "fsw.webapi\\Repositorios\\Configuracion\\UsuarioConfiguracion.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\fsw\\fsw.webapi\\Repositorios\\Configuracion\\UsuarioConfiguracion.cs",
+              "RelativeToolTip": "fsw.webapi\\Repositorios\\Configuracion\\UsuarioConfiguracion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T05:03:50.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\fsw\\fsw.webapi\\DTOs\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "fsw.webapi\\DTOs\\UsuarioDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\fsw\\fsw.webapi\\DTOs\\UsuarioDto.cs",
+              "RelativeToolTip": "fsw.webapi\\DTOs\\UsuarioDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T01:34:05.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\fsw\\fsw.webapi\\DTOs\\Response\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "fsw.webapi\\DTOs\\Response\\LoginResponseDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\fsw\\fsw.webapi\\DTOs\\Response\\LoginResponseDto.cs",
+              "RelativeToolTip": "fsw.webapi\\DTOs\\Response\\LoginResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T01:34:03.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\fsw\\fsw.webapi\\Startup.cs",
+              "RelativeDocumentMoniker": "fsw.webapi\\Startup.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\fsw\\fsw.webapi\\Startup.cs",
+              "RelativeToolTip": "fsw.webapi\\Startup.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwDUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T04:13:47.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
